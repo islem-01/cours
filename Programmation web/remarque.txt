@@ -1,0 +1,6 @@
+html:5 (auto)	
+target ="_blank" ( ouvrire un autre ongle )	
+**image**title et alt 3akes ba3adhhom wa9t tekhdem ell alt, tilte matkhdemch
+chemin :relatif ( uniquement ke dossier du site web )
+chemin :absolu (c:/../../)
+git(islem@Zouari01)
